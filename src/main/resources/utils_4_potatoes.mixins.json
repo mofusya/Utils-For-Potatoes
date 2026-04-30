@@ -1,10 +1,11 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.mofusya.examplemod.mixin",
+  "package": "net.mofusya.utils_4_potatoes.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "examplemod.refmap.json",
+  "refmap": "utils_4_potatoes.refmap.json",
   "mixins": [
+    "AbstractFurnaceBlockEntityMixin"
   ],
   "client": [
   ],

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "utils_4_potatoes:block/nether_rack_furnace",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "utils_4_potatoes:block/nether_rack_furnace"
+    },
+    "facing=south": {
+      "model": "utils_4_potatoes:block/nether_rack_furnace",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "utils_4_potatoes:block/nether_rack_furnace",
+      "y": 270
+    }
+  }
+}

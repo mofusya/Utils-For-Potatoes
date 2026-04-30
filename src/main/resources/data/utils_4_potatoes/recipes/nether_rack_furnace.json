@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "###",
+    "# #",
+    "#N#"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:stone_tool_materials"
+    },
+    "N": {
+      "tag": "forge:netherrack"
+    }
+  },
+  "result": {
+    "item": "utils_4_potatoes:nether_rack_furnace"
+  }
+}
